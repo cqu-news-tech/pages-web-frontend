@@ -1,0 +1,115 @@
+body{
+    background-color: #fdf9c9;
+    font-family: 'Yanone Kaffeesatz', serif;  
+}
+.container{
+    position: absolute;
+    box-sizing:border-box;
+    width:88vw;
+    height:200vh;
+    left:6vw;
+    top:5vh;
+}
+.head{
+    box-sizing:border-box;
+    background: url(5.jpg) no-repeat;
+    background-size: 100% 100%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top:0;
+    margin-bottom:0;
+    width:100%;
+    height:30vh;
+}
+.section_left{/* 图片在左 文本在右*/
+    box-sizing:border-box;
+    position: relative;
+    margin-left: 0;
+    margin-right:0;
+    margin-top:6vh;
+    margin-bottom:0;
+    width:100%;
+    height:32vh;
+}
+.image_left{
+    box-sizing:border-box;
+    float:left;/*图片在左*/
+    margin-left: 0;
+    margin-right: 1%;
+    margin-top:0;
+    margin-bottom:0;
+    width:49%;
+    height:100%;
+}
+.text_right{
+    box-sizing:border-box;
+    float:right; /*文本在右*/
+    margin-left: 1%;
+    margin-right: 0;
+    margin-top:0;
+    margin-bottom:0;
+    width:49%;
+    height:100%;
+    background-color:#BEBE98;
+}
+.section_right{/*图片在右 文本在左*/
+    box-sizing:border-box;
+    position: relative;
+    margin-left: 0;
+    margin-right:0;
+    margin-top:6vh;
+    margin-bottom:0;
+    width:100%;
+    height:32vh;
+}
+.text_left{
+    box-sizing:border-box;
+    float:left; /*文本在左*/
+    margin-left: 0;
+    margin-right: 1%;
+    margin-top:0;
+    margin-bottom:0;
+    width:49%;
+    height:100%;
+    background-color: #BEBE98;
+}
+.image_right{
+    box-sizing:border-box;
+    float:right;/*图片在右*/
+    margin-left: 1%;
+    margin-right: 0;
+    margin-top:0;
+    margin-bottom:0;
+    width:49%;
+    height:100%;  
+}
+.title{
+    box-sizing: border-box;
+    border: 5px black;
+    border-bottom-style: solid;
+    margin-left: 5%;
+    padding-top:0;
+    margin-bottom:0;
+    width:80%;
+    height:22%;
+}
+h2{
+    font-size: 200%;
+    letter-spacing:2px;
+    /*text-indent:2em;空格*/
+    /*letter-spacing: 4px;  px单位不能响应*/
+}
+p{
+    font-size:120%;
+    text-align:justify;
+    letter-spacing:2px;
+    line-height:150%;
+}
+.content{
+    box-sizing: border-box;
+    margin-left: 5%;
+    margin-top:1%;
+    margin-bottom:0;
+    width:80%;
+    height:70%;
+}
