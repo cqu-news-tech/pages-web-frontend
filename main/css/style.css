@@ -70,8 +70,8 @@ a{
 
 
 #nav{
-    width: 90vw;
-    height: auto;
+    width: auto;
+    height: 100%;
     background-color: #e5ffb4;
     margin-left: 13vw;
     margin-right: auto;
@@ -93,8 +93,8 @@ a{
     margin-bottom: 20px;
     background-color: bisque;
     box-shadow: 4px 3px 5px #88888871;
-    text-decoration: none;
-}
+    text-decoration: none ;
+} 
 
 
 
