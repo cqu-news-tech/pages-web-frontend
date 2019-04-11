@@ -1,0 +1,49 @@
+    body {
+        margin: 1vh 0.1vh 5vh 0.5vh;
+        padding: 0px 15px 10px 15px;
+        background-color: #e5ffb5;
+    }
+    
+    h1,
+    p,
+    footer {
+        text-decoration-color: #323130;
+        -moz-text-decoration-color: #323130;
+    }
+    
+    h1.title {
+        text-align: center;
+        font-size: 24px;
+        font-family: "Microsoft YaHei", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        height: 20vh;
+        display: inline-block;
+        padding: auto auto;
+        margin: 0 auto;
+    }
+    
+    img {
+        height: 50%;
+        width: 100%;
+        margin: 0 auto;
+        padding: 0 0;
+    }
+    
+    p {
+        text-align: justify;
+        text-justify: distribute-all-lines;
+        text-align-last: justify;
+    }
+    
+    a.back {
+        text-decoration: none;
+        color: #323130;
+    }
+    
+    a.back:hover {
+        color: black;
+    }
+    
+    a {
+        margin-left: 2.2em;
+        padding-left: 0;
+    }
