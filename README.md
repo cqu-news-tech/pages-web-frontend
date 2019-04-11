@@ -1,5 +1,5 @@
 ### What's this?
-This is a tamplate for org-use in the spring sports meeting for [CQU-news](https://nes.cqu.edu.cn) designed and modified by CQU-news-Tech task force
+This is a tamplate for org-use in the spring sports meeting for [CQU-news](https://news.cqu.edu.cn) designed and modified by CQU-news-Tech task force
 ### How to use
 Clone it or just download as zip file if you want to.And if you are a member of CQU-news you can fork it and raise pull request. We'll merge it if the change's satisfied.
 ### About License
