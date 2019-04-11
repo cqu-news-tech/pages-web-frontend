@@ -5,8 +5,7 @@ a{
 }
 .main{
     width: 100vw;
-    height: auto;
-    background-color: #e5ffb4;
+    height: 100%;
 }
 
 
@@ -93,7 +92,7 @@ a{
     margin-bottom: 20px;
     background-color: bisque;
     box-shadow: 4px 3px 5px #88888871;
-    text-decoration: none ;
+    text-decoration: none;
 } 
 
 
@@ -115,6 +114,46 @@ a{
 	margin: 0;
 	padding: 0;
 }
+
+
+@media screen and (min-width:1000px){
+.word_1>p{
+	word-break: break-all;
+	font-size: 1.3vw;
+	display: -webkit-box;
+	overflow: hidden;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 2;
+	display: -webkit-box;
+	text-overflow: ellipsis;
+	color: #fff;
+}
+.word_1{
+	width: 100%;
+	background-color: rgba(0, 0, 0, 0.644);
+	max-height: 20%;
+	bottom: 0;
+	position: absolute;
+}}
+@media screen and (max-width:1000px){
+.word_1>p{
+	word-break: break-all;
+	font-size: 1.3vw;
+	display: -webkit-box;
+	overflow: hidden;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 1;
+	display: -webkit-box;
+	text-overflow: ellipsis;
+	color: #fff;
+}
+.word_1{
+	width: 100%;
+	background-color: rgba(0, 0, 0, 0.644);
+	max-height: 20%;
+	bottom: 0;
+	position: absolute;
+}}
 
 
 .box{
@@ -216,9 +255,87 @@ img{
 span{
 	display: block;
 	width: 2.43vw;
-	height: 0.0693vw;
-	background: red;
+	height: 0.2vw;
+	background: rgba(128, 128, 128, 0.445);
 }
 .blue{
-	background: blue;
+	background: rgba(0, 0, 0, 0.568);
 }
+
+
+/* 333333333333333 */
+@media screen and (min-width:1000px){
+	#main_6{
+		width: 70%;
+	}
+	.link{
+	    width: 49%;
+	    height: 160px;
+	    float: left;
+	    background-color: #deddaf;
+	    margin:10px auto;
+    }
+    .divv{
+   	width: 2%;
+    height: 100px;
+    float: left;
+    margin:10px auto;
+    }
+}
+@media screen and (min-width:700px) and (max-width:1000px){
+	#main_6{
+		width: 85%;
+		margin:0 auto;
+	}
+	.link{
+		margin:10px auto;
+    	width: 100%;
+    	padding-bottom : 20%;
+    	float: left;
+    	background-color: #deddaf;
+    }
+}
+@media screen and (max-width:700px){
+	#main{
+		width: 100%;
+	}
+	.link{
+	margin:10px auto;
+	width: 100%;
+	padding-bottom : 28%;
+	float: left;
+	background-color: #deddaf;
+    }
+}
+
+#links{
+	margin:10px auto;
+	width: 100%;
+    float: left;
+}
+.imgs{
+	position: relative;
+	float: left;
+	width: 180px;
+	height: 140px;
+	background-color: white;
+}
+    .divs{
+   	width: 2%;
+    height: 100px;
+    float: left;
+    margin:10px auto;
+    }
+.img_1{
+	width: 100%;
+	height: 100%;
+}
+a{
+
+	font-size: 1.3em;
+	color: black;
+}
+
+
+
+
