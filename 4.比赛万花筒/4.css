@@ -1,0 +1,47 @@
+body
+{
+	background-color: #fdf9c9;
+}
+
+img
+{
+	width: 15vw;
+	height: 10vw;
+}
+
+img#headPicture
+{
+    width: 95vw !important;
+	height: 10vw !important;
+}
+
+
+
+#firstColumn
+{
+	position: absolute;
+	top: 50%;
+	left: 10%;
+}
+
+#secondColumn
+{
+	position: absolute;
+	top: 50%;
+	left: 30%;
+}
+
+#thirdColumn
+{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+}
+
+#fourthColumn
+{
+	position: absolute;
+	top: 50%;
+	left: 70%;
+}
+
