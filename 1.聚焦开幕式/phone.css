@@ -1,0 +1,39 @@
+body{background-color:#fdf9c9;text-align:center;}
+#head{width:100%;margin:0 auto;padding-top:5%;}
+#list{
+    margin:0 auto;
+    padding-top:20%;
+    width:90%;
+    height:30%;
+    border:none;
+    z-index:1;
+}
+#list img{
+    width:100%;
+    margin:auto;
+}
+#list span{
+    position: relative;
+    bottom:4vh;
+    height:20%;
+    color:#fff;
+    display: block;
+    text-align:center;
+    background-color:rgba(0,0,0,.7); 
+}
+
+#container{
+    margin: 10% auto;
+    width:90%;
+    height:20%;
+    overflow:hidden;
+    overflow-x:scroll;
+    overflow-y:hidden;
+    white-space:nowrap;
+}
+#images {
+    margin:0 auto;
+}
+#images img{
+    width:40%;
+}
