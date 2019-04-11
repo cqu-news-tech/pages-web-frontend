@@ -2,24 +2,13 @@ body{
     background-color: #fdf9c9;
     font-family: 'Yanone Kaffeesatz', serif;/*字体麻烦您统一一下*/  
 }
-.container{
-    position: absolute;
+.container_5{
+    position: relative;
     box-sizing:border-box;
     width:80vw;
-    height:108vw;/*弄多高视section个数定,多一个section加一个23vw*/
-    left:10vw;
+    height:95vw;/*弄多高视section个数定,多一个section加一个23vw*/
+    left:0vw;
     top:3vw;
-}
-.head{
-    box-sizing:border-box;
-    background: url(img_5.png) no-repeat;/*用的蒋抠的图，用的话需要换新的*/
-    background-size: 100% 100%;
-    margin-left: 0;
-    margin-right: 0;
-    margin-top:0;
-    margin-bottom:0;
-    width:80vw;
-    height:16vw;
 }
 .section_left{/* 图片在左 文本在右*/
     box-sizing:border-box;
@@ -95,17 +84,18 @@ body{
     line-height:2vw;
     font-weight:bold;
 }
-h2{
-    font-size: 2vw;
+.title>h2{
+    font-size: 1.9vw;
     /*letter-spacing:0.5vw; 宽度不够，舍弃字间距*/
     /*text-indent:2em;空格*/
     /*letter-spacing: 4px;  px单位不能响应*/
 }
-p{
+.content>p{
     font-size:1.5vw;
     text-align:justify;
     /*letter-spacing: 0.1vw; 文本内容少时可以应用字间距*/
     line-height:normal;
+    text-overflow: ellipsis;
 }
 .content{
     box-sizing: border-box;

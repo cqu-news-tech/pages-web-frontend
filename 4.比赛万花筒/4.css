@@ -3,45 +3,25 @@ body
 	background-color: #fdf9c9;
 }
 
-img
-{
-	width: 15vw;
-	height: 10vw;
-}
-
 img#headPicture
 {
-    width: 95vw !important;
-	height: 10vw !important;
+    width: 1534px !important;
+	height: 302px !important;
 }
 
-
-
-#firstColumn
+#Karleidoscope
 {
-	position: absolute;
-	top: 50%;
-	left: 10%;
+	width:100%;
+	overflow: hidden;
+	margin:50px auto;
 }
 
-#secondColumn
+#Karleidoscope .Karl-item
 {
-	position: absolute;
-	top: 50%;
-	left: 30%;
+	width: 290px;
+	height: 160px;
+	float: left;
+	text-align: center;
 }
 
-#thirdColumn
-{
-	position: absolute;
-	top: 50%;
-	left: 50%;
-}
-
-#fourthColumn
-{
-	position: absolute;
-	top: 50%;
-	left: 70%;
-}
 
