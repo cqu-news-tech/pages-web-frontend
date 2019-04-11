@@ -1,0 +1,205 @@
+body{
+    background-color:#fdf9c9;
+}
+
+span{
+    border-bottom: 2px solid black;
+    font-size: 20px;
+    font-weight:bold;
+}
+
+
+div.tail{
+    position: relative;
+    left: 2vw;
+    top: 180vw;
+    width: 96vw;
+    height: 10vw;
+    border: 0px solid black;
+}
+
+/* ���1 */
+div.s1{
+    border-radius:3%;
+    background-color: white;
+    position: relative;
+    left: 2vw;
+    top: 25vw;
+    width: 45vw;
+    height: 50vw;
+    border: 0px solid black;
+}
+div.s1 div.pas{
+    position: relative;
+    left: 5%;
+    top: 67%;
+    width: 90%;
+    height: 30%;
+    border: 0px solid black;
+}
+div.s1 div.photo{
+    background: url("../img/p.gif") no-repeat;
+    background-size: 100% 100%;
+    text-align:center;
+    position: relative;
+    left: 5%;
+    top: 5%;
+    width: 90%;
+    height: 60%;
+    border: 0px solid black;
+}
+
+/* ���2 */
+div.s2{
+    border-radius:3%;
+    background-color: white;
+    position: relative;
+    left: 53vw;
+    top: 25vw;
+    width: 45vw;
+    height: 50vw;
+    border: 0px solid black;
+}
+div.s2 div.pas{
+    position: relative;
+    left: 5%;
+    top: 67%;
+    width: 90%;
+    height: 30%;
+    border: 0px solid black;
+}
+div.s2 div.photo{
+    background: url("../img/p.gif") no-repeat;
+    background-size: 100% 100%;
+    text-align:center;
+    position: relative;
+    left: 5%;
+    top: 5%;
+    width: 90%;
+    height: 60%;
+    border: 0px solid black;
+}
+
+/* ���3 */
+div.s3{
+    border-radius:3%;
+    background-color: white;
+    position: relative;
+    left: 2vw;
+    top: 80vw;
+    width: 45vw;
+    height: 50vw;
+    border: 0px solid black;
+}
+div.s3 div.pas{
+    position: relative;
+    left: 5%;
+    top: 67%;
+    width: 90%;
+    height: 30%;
+    border: 0px solid black;
+}
+div.s3 div.photo{
+    background: url("../img/p.gif") no-repeat;
+    background-size: 100% 100%;
+    text-align:center;
+    position: relative;
+    left: 5%;
+    top: 5%;
+    width: 90%;
+    height: 60%;
+    border: 0px solid black;
+}
+
+/* ���4 */
+div.s4{
+    border-radius:3%;
+    background-color: white;
+    position: relative;
+    left: 53vw;
+    top: 80vw;
+    width: 45vw;
+    height: 50vw;
+    border: 0px solid black;
+}
+div.s4 div.pas{
+    position: relative;
+    left: 5%;
+    top: 67%;
+    width: 90%;
+    height: 30%;
+    border: 0px solid black;
+}
+div.s4 div.photo{
+    background: url("../img/p.gif") no-repeat;
+    background-size: 100% 100%;
+    text-align:center;
+    position: relative;
+    left: 5%;
+    top: 5%;
+    width: 90%;
+    height: 60%;
+    border: 0px solid black;
+}
+
+/* ���5 */
+div.s5{
+    border-radius:3%;
+    background-color: white;
+    position: relative;
+    left: 2vw;
+    top: 135vw;
+    width: 45vw;
+    height: 50vw;
+    border: 0px solid black;
+}
+div.s5 div.pas{
+    position: relative;
+    left: 5%;
+    top: 67%;
+    width: 90%;
+    height: 30%;
+    border: 0px solid black;
+}
+div.s5 div.photo{
+    background: url("../img/p.gif") no-repeat;
+    background-size: 100% 100%;
+    text-align:center;
+    position: relative;
+    left: 5%;
+    top: 5%;
+    width: 90%;
+    height: 60%;
+    border: 0px solid black;
+}
+
+/* ���6 */
+div.s6{
+    border-radius:3%;
+    background-color: white;
+    position: relative;
+    left: 53vw;
+    top: 135vw;
+    width: 45vw;
+    height: 50vw;
+    border: 0px solid black;
+}
+div.s6 div.pas{
+    position: relative;
+    left: 5%;
+    top: 67%;
+    width: 90%;
+    height: 30%;
+    border: 0px solid black;
+}
+div.s6 div.photo{
+    background: url("../img/p.gif") no-repeat;
+    background-size: 100% 100%;
+    text-align:center;
+    position: relative;
+    left: 5%;
+    top: 5%;
+    width: 90%;
+    height: 60%;
+    border: 0px solid black;
+}

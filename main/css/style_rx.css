@@ -1,0 +1,194 @@
+
+span.title_3{
+    border-bottom: 2px solid black;
+    font-size: 20px;
+    font-weight:bold;
+}
+
+div.tail{
+    position: absolute;
+    left: 2vw;
+    top: 180vw;
+    width: 96vw;
+    height: 10vw;
+    border: 0px solid black;
+}
+
+/* ���1 */
+div.s1{
+    border-radius:3%;
+    background-color: white;
+    position: relative;
+    left: 0vw;
+    top: 0vw;
+    width: 40vw;
+    height: 45vw;
+    border: 0px solid black;
+}
+div.s1 div.pas{
+    position: absolute;
+    left: 5%;
+    top: 67%;
+    width: 90%;
+    height: 30%;
+    border: 0px solid black;
+}
+div.s1 div.photo_3{
+    text-align:center;
+    position: absolute;
+    left: 5%;
+    top: 5%;
+    width: 90%;
+    height: 60%;
+    border: 0px solid black;
+}
+
+div.photo_3 img{
+    height: 100%;
+    width: 100%;
+}
+
+/* ���2 */
+div.s2{
+    border-radius:3%;
+    background-color: white;
+    position: relative;
+    left: 41.8vw;
+    top: -45vw;
+    width: 40vw;
+    height: 45vw;
+    border: 0px solid black;
+}
+div.s2 div.pas{
+    position: absolute;
+    left: 5%;
+    top: 67%;
+    width: 90%;
+    height: 30%;
+    border: 0px solid black;
+}
+div.s2 div.photo_3{
+    text-align:center;
+    position: absolute;
+    left: 5%;
+    top: 5%;
+    width: 90%;
+    height: 60%;
+    border: 0px solid black;
+}
+
+/* ���3 */
+div.s3{
+    border-radius:3%;
+    background-color: white;
+    position: relative;
+    left: 0vw;
+    top: -40vw;
+    width: 40vw;
+    height: 45vw;
+    border: 0px solid black;
+}
+div.s3 div.pas{
+    position: absolute;
+    left: 5%;
+    top: 67%;
+    width: 90%;
+    height: 30%;
+    border: 0px solid black;
+}
+div.s3 div.photo_3{
+    text-align:center;
+    position: absolute;
+    left: 5%;
+    top: 5%;
+    width: 90%;
+    height: 60%;
+    border: 0px solid black;
+}
+
+/* ���4 */
+div.s4{
+    border-radius:3%;
+    background-color: white;
+    position: relative;
+    left: 41.8vw;
+    top: -85vw;
+    width: 40vw;
+    height: 45vw;
+    border: 0px solid black;
+}
+div.s4 div.pas{
+    position: absolute;
+    left: 5%;
+    top: 67%;
+    width: 90%;
+    height: 30%;
+    border: 0px solid black;
+}
+div.s4 div.photo_3{
+    text-align:center;
+    position: absolute;
+    left: 5%;
+    top: 5%;
+    width: 90%;
+    height: 60%;
+    border: 0px solid black;
+}
+
+/* ���5 */
+div.s5{
+    border-radius:3%;
+    background-color: white;
+    position: relative;
+    left: 0vw;
+    top: -80vw;
+    width: 40vw;
+    height: 45vw;
+    border: 0px solid black;
+}
+div.s5 div.pas{
+    position: absolute;
+    left: 5%;
+    top: 67%;
+    width: 90%;
+    height: 30%;
+    border: 0px solid black;
+}
+div.s5 div.photo_3{
+    text-align:center;
+    position: absolute;
+    left: 5%;
+    top: 5%;
+    width: 90%;
+    height: 60%;
+    border: 0px solid black;
+}
+
+/* ���6 */
+div.s6{
+    border-radius:3%;
+    background-color: white;
+    position: relative;
+    left: 41.8vw;
+    top: -125vw;
+    width: 40vw;
+    height: 45vw;
+    border: 0px solid black;
+}
+div.s6 div.pas{
+    position: absolute;
+    left: 5%;
+    top: 67%;
+    width: 90%;
+    height: 30%;
+    border: 0px solid black;
+}
+div.s6 div.photo_3{
+    text-align:center;
+    position: absolute;
+    left: 5%;
+    top: 5%;
+    width: 90%;
+    height: 60%;
+    border: 0px solid black;
+}
