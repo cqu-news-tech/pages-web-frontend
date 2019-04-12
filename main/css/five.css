@@ -96,6 +96,8 @@ body{
     /*letter-spacing: 0.1vw; 文本内容少时可以应用字间距*/
     line-height:normal;
     text-overflow: ellipsis;
+    justify-content: center;
+    text-justify: distribute;
 }
 .content{
     box-sizing: border-box;
